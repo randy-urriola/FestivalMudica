@@ -1,7 +1,7 @@
 # Rock & EDM Festival
 
-<p>
-  <img src="build/img/grande/1.jpg"> 
+<p align="center">
+  <a href="https://randy-urriola.github.io/FestivalMusica/" target="blank"><img src="build/img/grande/1.jpg" width="55%"></a>
 </p>
 
 ## Description
@@ -12,17 +12,19 @@ The site show you a little galery about the concert and the tickets for each day
 
 ## Structure
 
-<img align="left" src="build/img/1.png" width="50%">
+<img align="left" src="build/img/1.png" width="30%">
 
 The project has the basics things that you can find in a website, as can be a header that contains the logo, title, a nav and the date for the event.
 After that, a section that contains a little explanation reffering to the festival, next we have a line up for the days with the hour and each band that will be in the event.
 
-<img align="right" src="build/img/2.png" width="50%">
+<img align="right" src="build/img/2.png" width="30%">
 
 This section, the galery section and the tickets section were created with css grid for a better responsive.
 this was a simple project where the main objective was understand how to use CSS Grid.
 
 :blush: If you wanna watch this proyect you can do it <a href="https://randy-urriola.github.io/FestivalMusica/" target="blank">Here</a>
+
+<br>
 
 ## 💻 Programming Lenguages and Tools used:
 
