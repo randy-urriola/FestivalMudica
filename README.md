@@ -22,6 +22,7 @@ After that, a section that contains a little explanation reffering to the festiv
 This section, the galery section and the tickets section were created with css grid for a better responsive.
 this was a simple project where the main objective was understand how to use CSS Grid.
 
+
 :blush: If you wanna watch this proyect you can do it <a href="https://randy-urriola.github.io/FestivalMusica/" target="blank">Here</a>
 
 <br>
